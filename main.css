@@ -1,0 +1,76 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fafafa;
+}
+
+hr {
+    border-color: #E0E0E0;
+}
+
+#about {
+    font-size: 4.6rem;
+    line-height: 1.2;
+}
+
+#navEmail {
+    font-size: 1.6rem;
+}
+
+#me {
+    float: left;
+}
+
+#works {
+    text-align: center;
+}
+
+.button {
+    background-color: #03A9F4;
+    border-color: #03A9F4;
+}
+
+/* Footer styles */
+
+#socialHeader {
+    margin-bottom: -0.25rem;
+}
+
+.emailContainer {
+    margin-bottom: 1.0rem;
+}
+
+.emailLink {
+    color: #03A9F4;
+}
+
+.fa-envelope {
+    margin-right: 0.5rem;
+}
+
+.fa-linkedin {
+    margin-right: 1rem;
+    color: #03A9F4;
+}
+
+.fa-github {
+    color: #03A9F4;
+}
+
+.social-media li {
+    display: inline;
+    list-style: none;
+}
+
+#hyperlink {
+    color: #03A9F4;
+}
+
+/******************/
+
+/* Larger than mobile screen */
+
+@media (min-width: 40.0rem) {
+    .fa-envelope {
+        margin-right: 0.5rem;
+    }
+}
