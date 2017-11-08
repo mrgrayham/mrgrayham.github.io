@@ -45,7 +45,7 @@ h1 {
 
 .emailLink {
     color: #03A9F4;
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 
 .fa-envelope {
@@ -64,6 +64,10 @@ h1 {
 .social-media li {
     display: inline;
     list-style: none;
+}
+
+#copyright {
+    font-size: 1.2rem;
 }
 
 #hyperlink {
